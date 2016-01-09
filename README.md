@@ -19,6 +19,9 @@ http://convert2ico.com/ Convert any image to .ICO [en ligne]
 ### Protips
 https://github.com/AllThingsSmitty/css-protips
 
+### Gradients
+http://uigradients.com/
+
 ## SVG
 ### Edition en ligne
 http://jxnblk.com/paths/
@@ -32,3 +35,7 @@ http://facebook.github.io/react/blog/2015/09/02/new-react-developer-tools.html
 
 ### Use case of react
 http://jxnblk.com/react-icons/
+
+## Github
+### Badges 
+http://forthebadge.com/
